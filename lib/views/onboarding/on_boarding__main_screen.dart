@@ -25,7 +25,6 @@ class _OnBoardingMainScreenState extends State<OnBoardingMainScreen> {
   @override
   void dispose() {
     onBoardingPageContorller.dispose();
-    // TODO: implement dispose
     super.dispose();
   }
 
